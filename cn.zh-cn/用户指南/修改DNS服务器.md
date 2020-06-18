@@ -2,7 +2,9 @@
 
 ## 操作场景<a name="section64101024183916"></a>
 
-注册成功的域名默认使用华为云DNS进行解析，DNS服务器地址为：ns1.hwclouds-dns.com、ns1.hwclouds-dns.net。
+DNS服务器定义了域名的权威DNS服务器。
+
+通过华为云注册成功的域名默认使用华为云DNS进行解析，详细内容，请参见[华为云DNS对用户提供域名服务的DNS是什么？](https://support.huaweicloud.com/dns_faq/dns_faq_012.html)。
 
 您可以根据业务需要修改域名的DNS服务器。域名注册服务支持修改单个域名的DNS服务器，也支持批量修改多个域名的DNS服务器。
 
