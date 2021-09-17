@@ -6,7 +6,7 @@
 
 通过华为云注册成功的域名默认使用华为云DNS进行解析，详细内容，请参见[华为云DNS对用户提供域名服务的DNS是什么？](https://support.huaweicloud.com/dns_faq/dns_faq_012.html)。
 
-您可以根据业务需要修改域名的DNS服务器。域名注册服务支持修改单个域名的DNS服务器，也支持批量修改多个域名的DNS服务器。
+若您选择非华为云DNS进行域名解析，可以修改域名的DNS服务器。域名注册服务支持修改单个域名的DNS服务器，也支持批量修改多个域名的DNS服务器。
 
 域名注册服务支持一次性批量修改1000个域名的DNS服务器。
 
@@ -14,7 +14,7 @@
 
 ## 修改单个域名的DNS服务器<a name="section14590151185717"></a>
 
-1.  登录管理控制台。
+1.  登录[管理控制台](https://auth.huaweicloud.com/authui/login.html?locale=zh-cn#/login)。
 2.  选择“域名与网站 \> 域名注册”。
 
     进入“域名列表”页面。
@@ -46,19 +46,18 @@
         -   ns1.huaweicloud-dns.net：除中国大陆之外国家或地区DNS地址
         -   ns1.huaweicloud-dns.org：除中国大陆之外国家或地区DNS地址
 
-        更多华为云DNS服务器点设置建议，请参见[华为云DNS对用户提供域名服务的DNS是什么？](https://support.huaweicloud.com/dns_faq/dns_faq_012.html)。
+        更多华为云DNS服务器的设置建议，请参见[华为云DNS对用户提供域名服务的DNS是什么？](https://support.huaweicloud.com/dns_faq/dns_faq_012.html)。
 
     -   删除：当设置的DNS服务器超过2个时，可以单击“删除”删除不需要的DNS服务器。
 
         **图 3**  删除DNS服务器<a name="fig07631327155817"></a>  
         ![](figures/删除DNS服务器.png "删除DNS服务器")
 
-
 6.  单击“确定”，完成DNS服务器的修改。
 
 ## 批量修改多个域名的DNS服务器<a name="section17839123743915"></a>
 
-1.  登录管理控制台。
+1.  登录[管理控制台](https://auth.huaweicloud.com/authui/login.html?locale=zh-cn#/login)。
 2.  选择“域名与网站 \> 域名注册”。
 
     进入“域名列表”页面。
@@ -86,7 +85,6 @@
 
         **图 6**  批量修改DNS服务器（自定义DNS）<a name="fig1620451318206"></a>  
         ![](figures/批量修改DNS服务器（自定义DNS）.png "批量修改DNS服务器（自定义DNS）")
-
 
 4.  单击“提交”，完成DNS服务器的修改。
 
